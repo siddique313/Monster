@@ -3,7 +3,7 @@ import React from "react";
 const Develop = () => {
   return (
     <>
-      <div className="flex bg-blue-600 justify-around">
+      <div className="flex bg-blue-600 justify-around mt-20">
         <div>
           <img
             className="h-60 justify-center items-center flex mt-10"

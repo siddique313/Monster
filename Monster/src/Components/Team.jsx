@@ -1,6 +1,6 @@
 import React from 'react'
-import TeamItem from './TeamItem'
 import img1 from "../assets/pic5.png"
+import TeamItem from './TeamItem';
 export default function Team() {
   return (
     <div>

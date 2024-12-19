@@ -1,10 +1,9 @@
-import React from 'react'
-import NewsItem from './NewsItem'
 import img1 from "../assets/pic5.png"
 import { RiHome2Line } from "react-icons/ri";
 import { MdOutlinePhoneIphone } from "react-icons/md";
 import { TbMessage2 } from "react-icons/tb";
 import NewsContact from './NewsContact';
+import NewsItem from './NewsItem';
 export default function News() {
   return (
     <div className='px-8'>
