@@ -15,7 +15,7 @@ const Contact = () => {
             <h1 className="text-slate-400">|</h1>
             <h3>
               If you have any questions, just fill in the contact form, and we
-              will answer you shortly.
+              will shortly.
             </h3>
           </div>
           <div className="flex justify-center items-center w-full">
