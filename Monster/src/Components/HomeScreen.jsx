@@ -1,13 +1,12 @@
 
-import Develop from './Components/Develop';
-import Header from './Components/Header';
-import Services from './Components/Services';
-import Team from './Components/Team';
-import People from './Components/People';
-import Pricing from './Components/Pricing';
-import Latest from './Components/Latest';
-import News from './Components/News';
-import Contact from './Components/Contact';
+import Header from './Header';
+import Services from './Services';
+import Develop from './Develop';
+import Team from './Team';
+import People from './People';
+import Pricing from './Pricing';
+import News from './News';
+import Contact from './Contact';
 
 export default function HomeScreen() {
   return(
