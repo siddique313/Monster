@@ -10,7 +10,7 @@ const Contact = () => {
             <h1 className="text-slate-400">|</h1>
             <h3>
               If you have any questions, just fill in the contact form, and we
-              will answer you shortly.
+              will shortly.
             </h3>
           </div>
           <div className="flex justify-center items-center w-full">
@@ -42,7 +42,7 @@ const Contact = () => {
             </form>
           </div>
           <div className="mt-6 flex justify-start">
-            <button className="bg-blue-500 py-2 px-5 text-white hover:bg-white hover:text-black hover:duration-500 hover:border-black hover:border-[1px]">
+            <button className="bg-blue-500 py-2 px-5 text-white hover:bg-black hover:text-white hover:duration-500 hover:border-black ">
               Send Message
             </button>
           </div>
