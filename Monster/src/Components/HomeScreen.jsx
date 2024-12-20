@@ -7,7 +7,6 @@ import People from './People';
 import Pricing from './Pricing';
 import News from './News';
 import Contact from './Contact';
-
 export default function HomeScreen() {
   return(
     <>
