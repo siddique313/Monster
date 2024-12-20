@@ -1,14 +1,11 @@
-
-import './App.css' 
-import HomeScreen from './Components/HomeScreen';
+import "./App.css";
+import HomeScreen from "./Components/HomeScreen";
 function App() {
   return (
-  
-   <>
-   <HomeScreen/>
-   </>
-    
-  )
+    <>
+      <HomeScreen />
+    </>
+  );
 }
 
-export default App
+export default App;
