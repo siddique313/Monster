@@ -1,3 +1,4 @@
+
 import "./App.css";
 import HomeScreen from "./Components/HomeScreen";
 function App() {
@@ -6,6 +7,7 @@ function App() {
       <HomeScreen />
     </>
   );
+
 }
 
 export default App;
