@@ -3,8 +3,8 @@ import React from "react";
 const Services = () => {
   return (
     <>
-      <div className="flex justify-center items-center gap-3 mt-8">
-        <div>
+      <div className="flex justify-center items-center gap-3">
+        <div className="mt-20">
           <img
             className="h-[550px]"
             src="https://canary.contestimg.wish.com/api/webimage/622285c65e5f9ec72809f46a-large.jpg"
