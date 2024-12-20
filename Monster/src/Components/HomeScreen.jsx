@@ -1,3 +1,4 @@
+
 import Contact from "./Contact";
 import Develop from "./Develop";
 import Header from "./Header";
@@ -8,6 +9,7 @@ import Pricing from "./Pricing";
 import Services from "./Services";
 import Team from "./Team";
 import Footer from "./Footer";
+
 
 export default function HomeScreen() {
   return (
