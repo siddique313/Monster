@@ -10,7 +10,7 @@ const Latest = () => {
             In our portfolio, you can browse the latest products developed for
             our clients for different corporate purposes. Our qualified team of
             interface designers and software developers is always ready to
-            create something unique for you.
+            create something unique you.
           </p>
         </div>
         <div className="flex gap-4 text-lg text-slate-400 ">
